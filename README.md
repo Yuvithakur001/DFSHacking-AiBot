@@ -47,9 +47,7 @@ Telegram bot made using Telethon which let you access your telegram account usin
 ☞ `OWNER_ID` - Your user ID as an integer.<br>
 
 <br>
-<h1 align="center"> 
-    pushpin Credits pushpin
-</h1>
+## 📌 Cʀᴇᴅɪᴛs 
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon](https://github.com/LonamiWebs/Telethon)
 
 <br>
