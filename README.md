@@ -5,7 +5,7 @@
    ◈💠 Hacking-AiBot 💠◈
 </h1>
 <h3 align="center"> 
-Telegram bot made using Telethon which let you access telegram account using it's telethon string session.<br>&lt;Publicized now>
+Telegram bot made using Telethon which let you access your telegram account using its telethon string session.<br>&lt;Publicized now>
 </h3>
 
 <h3 align="center">
@@ -47,7 +47,12 @@ Telegram bot made using Telethon which let you access telegram account using it'
 ☞ `OWNER_ID` - Your user ID as an integer.<br>
 
 <br>
+<h1 align="center"> 
+    📝 Requirements 📝
+</h1>
 
+* [Lonami](https://github.com/LonamiWebs/) for [Telethon](https://github.com/LonamiWebs/Telethon)
+<br>
 ```
 Don't foget to star this repository. Much love ❤️
 ```
