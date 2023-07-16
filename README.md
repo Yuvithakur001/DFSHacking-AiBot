@@ -2,17 +2,17 @@
   <img src="hackingaibot/resources/Gladiators.jpeg" alt="Logo">
 </p>
 <h1 align="center"> 
-   ◈💠 Hacking-AiBot 💠◈
+   ◈💠 DFSHacking-AiBot 💠◈
 </h1>
 <h3 align="center"> 
 Telegram bot made using Telethon which let you access your telegram account using its telethon string session.<br>&lt;Publicized now>
 </h3>
 
 <h3 align="center">
-   <a href="https://github.com/Gladiators-Projects/Hacking-AiBot"><img src="https://img.shields.io/github/repo-size/Gladiators-Projects/Hacking-AiBot?style=for-the-badge&logo=appveyor" alt="Repo Size"></a>
-   <a href="https://github.com/Gladiators-Projects/Hacking-AiBot/stargazers"><img src="https://img.shields.io/github/stars/Gladiators-Projects/Hacking-AiBot?style=for-the-badge&logo=appveyor" alt="Stars"></a>
-   <a href="https://github.com/Gladiators-Projects/Hacking-AiBot/network/members"><img src="https://img.shields.io/github/forks/Gladiators-Projects/Hacking-AiBot?style=for-the-badge&logo=appveyor" alt="Forks"></a><br>
-  <a href="https://t.me/Hacking_aibot"><img src="https://img.shields.io/badge/TELEGRAM-BOT-blue?style=for-the-badge&logo=appveyor" alt="Redirect"></a>
+   <a href="https://github.com/Gladiators-Projects/Hacking-AiBot"><img src="https://img.shields.io/github/repo-size/Gladiators-Projects/DFSHacking-AiBot?style=for-the-badge&logo=appveyor" alt="Repo Size"></a>
+   <a href="https://github.com/Gladiators-Projects/DFSHacking-AiBot/stargazers"><img src="https://img.shields.io/github/stars/Gladiators-Projects/DFSHacking-AiBot?style=for-the-badge&logo=appveyor" alt="Stars"></a>
+   <a href="https://github.com/Gladiators-Projects/DFSHacking-AiBot/network/members"><img src="https://img.shields.io/github/forks/Gladiators-Projects/Hacking-AiBot?style=for-the-badge&logo=appveyor" alt="Forks"></a><br>
+  <a href="https://t.me/DFSHacking_aibot"><img src="https://img.shields.io/badge/TELEGRAM-BOT-blue?style=for-the-badge&logo=appveyor" alt="Redirect"></a>
 </h3><br>
 
 <h1 align="center"> 
@@ -20,18 +20,18 @@ Telegram bot made using Telethon which let you access your telegram account usin
 </h1>
 
 <h3 align="center">
-   <a href="https://heroku.com/deploy?template=https://github.com/Gladiators-Projects/Hacking-AiBot">
+   <a href="https://heroku.com/deploy?template=https://github.com/Gladiators-Projects/DFSHacking-AiBot">
       <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on heroku">
    </a><br><br>
-   Proceed to <a href="https://github.com/Gladiators-Projects/Hacking-AiBot/blob/main/config.example">config.example</a> to get an idea about vars filling...
+   Proceed to <a href="https://github.com/Gladiators-Projects/DFSHacking-AiBot/blob/main/config.example">config.example</a> to get an idea about vars filling...
 </h3><br>
 
 <h1 align="center"> 
     📃 License 📃
 </h1>
 <h3 align="center">
-  <a href="https://github.com/Gladiators-Projects/Hacking-AiBot"><img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="License"></a><br>
-  <a href="https://github.com/Gladiators-Projects/Hacking-AiBot">Hacking-AiBot</a> is licensed under <a href = "https://www.gnu.org/licenses/gpl-3.0.html">GNU Affero General Public License.</a>
+  <a href="https://github.com/Gladiators-Projects/DFSHacking-AiBot"><img src="https://www.gnu.org/graphics/gplv3-or-later.png" alt="License"></a><br>
+  <a href="https://github.com/Gladiators-Projects/DFSHacking-AiBot">Hacking-AiBot</a> is licensed under <a href = "https://www.gnu.org/licenses/gpl-3.0.html">GNU Affero General Public License.</a>
 </h3><br>
 
 
